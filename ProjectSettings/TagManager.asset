@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Lisa
+  - Canvas
+  - Bot
+  - Die
+  - HUD
+  - Pause
+  - Task
+  - Trigger
+  - Enemy
+  - Amount
+  - Chest
+  - NPC
+  - Push
+  - Button
+  - Trap
+  - Mask
+  - SE
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Hurt
+  - Hit
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2590296815
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2385489907
+    locked: 0
+  - name: Floor
+    uniqueID: 1875598157
+    locked: 0
+  - name: top
+    uniqueID: 2210832557
+    locked: 0
+  - name: buttons
+    uniqueID: 3927806347
+    locked: 0
